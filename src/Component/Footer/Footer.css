@@ -1,0 +1,6 @@
+.footer-container{
+    background-image: url(../Images/footer-bg.png.webp);
+    background-size: 100% 100%;
+    object-fit: cover;
+    
+}

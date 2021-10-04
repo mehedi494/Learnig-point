@@ -1,0 +1,27 @@
+.image{
+    width: 400px;
+    height:200px;
+    object-fit: cover;
+}
+.card{
+    width: 400px;
+    background-color: rgb(242, 242, 243);
+    
+}
+
+  
+    
+    
+
+.card:hover{
+    
+    background-color: white;
+    box-shadow: 5px 2px 10px  rgb(189, 187, 187);
+    
+    
+}
+
+.bg-img{
+    background-image: url(../Images/xvideo-area-bg.png.pagespeed.ic.I15VDVnXMJ.png);
+    background-repeat: no-repeat;
+}

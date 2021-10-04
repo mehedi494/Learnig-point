@@ -1,0 +1,15 @@
+.card-hover{
+    padding: 20px;
+    margin: 20px;
+    color: rgb(228, 64, 64);
+}
+.card-hover:hover{
+    /* box-shadow: 2px 2px 2px solid black; */
+    
+    box-shadow: 2px 2px 20px rgb(216, 213, 213);
+    border-radius: 10px;
+     
+    
+    
+    
+}
